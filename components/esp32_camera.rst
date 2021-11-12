@@ -139,7 +139,7 @@ Configuration for M5Stack Camera
       i2c_pins:
         sda: GPIO25
         scl: GPIO23
-      data_pins: [GPIO17, GPIO35, GPIO34, GPIO5, GPIO39, GPIO18, GPIO36, GPIO19]
+      data_pins: [GPIO32, GPIO35, GPIO34, GPIO5, GPIO39, GPIO18, GPIO36, GPIO19]
       vsync_pin: GPIO22
       href_pin: GPIO26
       pixel_clock_pin: GPIO21
